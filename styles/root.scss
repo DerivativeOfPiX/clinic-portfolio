@@ -1,0 +1,32 @@
+@import "./variables.scss";
+
+
+
+h1, h2{
+    color: $text-heading;
+}
+
+p{
+    color : $text-general;
+}
+
+.clinic-header{
+    background-color: $accent-color;
+}
+
+.footer, .menu {
+    background-color: $secondary-color;
+}
+
+.calender{
+    width: 400px;
+    height : 300px;
+    background-color: black;
+    margin : auto;
+}
+
+.vendor{
+    margin : auto;
+    background-color: black;
+}
+    

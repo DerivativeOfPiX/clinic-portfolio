@@ -1,0 +1,27 @@
+{
+  "name": "main-web-html",
+  "version": "1.0.0",
+  "description": "main frontend code for dr tasneem clinic",
+  "main": "index.js",
+  "scripts": {
+    "develop": "./node_modules/.bin/gulp"
+  },
+  "author": "DerivativeOfPiX",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-header": "^2.0.9",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}
